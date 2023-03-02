@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+
+    <meta charset="UTF-8">
+    <title>Cores</title>
+    <link rel="stylesheet" href="style.css">
+
+</head>
+
+<body>
+
+    <h1>exemplo</h1>
+
+    <div class="cor1">
+
+        <center>
+        <h1>hex da cor aqui</h1>
+        <h1>#c90425</h1>
+        </center>
+
+    </div>
+
+    <hr>
+
+    <div class="cor2">
+
+        <center>
+            <h1>hex da cor aqui</h1>
+            <h1>#000000</h1>
+        </center>        
+
+    </div>
+
+    <hr>
+    
+    <div class="cor3">
+
+        <center>
+            <h1>hex da cor aqui</h1>
+            <h1>#616161</h1>
+        </center>   
+
+    </div>
+    
+    
+</body>
+</html>

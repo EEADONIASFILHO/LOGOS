@@ -1,0 +1,25 @@
+.cor1 {
+    background-color: #c90425;
+    padding: 10px ;
+    border: 1px solid rgb(0, 0, 0) ;
+    width: 300px;
+    height: 300px;
+}
+
+.cor2 {
+    background-color: #000000;
+    color: aliceblue;
+    padding: 10px ;
+    border: 1px solid rgb(0, 0, 0) ;
+    width: 300px;
+    height: 300px;
+}
+
+.cor3 {
+    background-color: #616161;
+    color: aliceblue;
+    padding: 10px ;
+    border: 1px solid rgb(0, 0, 0) ;
+    width: 300px;
+    height: 300px;
+}
